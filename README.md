@@ -7,7 +7,7 @@ Web Developer, Programmer, and Cybersecurity Specialist
 I am a Web Developer, Designer, and Cybersecurity Expert, currently furthering my education at the Università degli Studi di Milano. With a keen eye for design and a strong foundation in technical skills, I create secure, user-friendly, and aesthetically pleasing digital solutions. My academic pursuits at one of Milan's most prestigious universities complement my practical experiences, keeping me updated with the latest trends and technologies in the field. My journey is a blend of creativity, security expertise, and continuous learning, aimed at making a significant impact in the tech world.
 
 * 🌍  I'm based in Verona, Italy
-* 🖥️  See my portfolio at [Hammad]([http://hammad.com](https://hammad-571.github.io/CV/))
+* 🖥️  See my portfolio at [Hammad](https://hammad-571.github.io/CV/)
 * ✉️  You can contact me at [hammadahmad571@gmail.com](mailto:hammadahmad571@gmail.com)
 * 🚀  I'm currently working on [I Quiz Patente](http://www.iquizpatente.com)
 * 🧠  I'm learning React
